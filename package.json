@@ -1,0 +1,29 @@
+{
+  "name": "kscrm",
+  "version": "1.0.0",
+  "description": "A CRM for KadiorSOLUTIONS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksdigit/kscrm.git"
+  },
+  "keywords": [
+    "express",
+    "api",
+    "js",
+    "crm",
+    "admin"
+  ],
+  "author": "aab_dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksdigit/kscrm/issues"
+  },
+  "homepage": "https://github.com/ksdigit/kscrm#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
