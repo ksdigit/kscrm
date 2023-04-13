@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/ksdigit/kscrm#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "mongoose": "^7.0.3"
   }
 }
